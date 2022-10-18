@@ -14,5 +14,7 @@
   </h1>
 </div>
 
-
-
+---
+:man_technologist: About Me :
+- An aspiring data professional trying to break into the data analytics industry.
+- In my free time, I write blogs on Medium.com on technical concepts in data science.
