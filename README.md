@@ -8,5 +8,5 @@
   - Natural Language Processing
   - Excel
   - Data Analysis & Manipulation
-- I write stuff on [Medium](https://medium.com/@chirag.sharma0378) and at my own [website](https://chirag1994.github.io/chiragsharma.github.io/posts.html).
+- I write stuff on [Medium](https://medium.com/@chirag.sharma0378) and at my own [Website](https://chirag1994.github.io/chiragsharma.github.io/posts.html).
 - Connect with me at [LinkedIn](https://www.linkedin.com/in/chiragsharma1994/). 
