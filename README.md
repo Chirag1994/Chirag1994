@@ -1,20 +1,12 @@
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif>
-  <div id="badges">
-  <a href="http://linkedin.com/in/chirag-sharma-40830914b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@chirag.sharma0378">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>  
-  </a>
-  </div>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
----
 :man_technologist: About Me :
-- An aspiring data professional trying to break into the data analytics industry.
-- In my free time, I write blogs on Medium.com on technical concepts in data science.
+- Hi, I am Chirag Sharma and I am an aspiring Data Scientist who is looking an opportunity into the Data Analytics Industry.
+- I'm skilled in the following tech stack:
+  - SQL
+  - Tableau
+  - Machine Learning
+  - Deep Learning
+  - Natural Language Processing
+  - Excel
+  - Data Analysis & Manipulation
+- I write stuff on [Medium](https://medium.com/@chirag.sharma0378) and at my own [website](https://chirag1994.github.io/chiragsharma.github.io/posts.html).
+- Connect with me at [LinkedIn](https://www.linkedin.com/in/chiragsharma1994/). 
